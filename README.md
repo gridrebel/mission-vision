@@ -2,7 +2,7 @@
 
 ##Mission
 
-WSSSPE is an international community-driven organization that promotes sustainable research software by addressing challenges related to the full life-cyle (including development, use, and maintenance) of research software through shared learning and community action.
+WSSSPE is an international community-driven organization that promotes sustainable research software by addressing challenges related to the full life-cycle (including development, use, and maintenance) of research software through shared learning and community action.
 
 ##Vision
 
